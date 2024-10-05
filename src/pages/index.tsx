@@ -1,7 +1,5 @@
-import Image from "next/image";
 import Link from "next/link";
 import React, { useState } from "react";
-import TiktokLogo from "../../public/tik-tok.png";
 import LogoTiktok from "@/components/LogoTiktok";
 import IconQuestionMark from "@/components/IconQuestionMark";
 import IconChevLeft from "@/components/IconChevLeft";
